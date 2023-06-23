@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdifatah Osman.
-- 👀 I’m interested in everything JavaScript, Golang and The Linux Operating System.
+- 👀 I’m interested in everything JavaScript, Flutter, Golang and The Linux Operating System.
 - 🌱 I’m currently learning The Odin Project and also building a free open-source backup program for Linux.
-- 💞️ I’m looking to collaborate on Projects using Vanilla Javascript, NextJS and Golang.
-- 📫 You can reach me at Twitter.
+- 💞️ I’m looking to collaborate on Projects using Vanilla Javascript, NextJS, Flutter or Golang.
+- 📫 You can reach me at @abdifatahcodes on Twitter.
 
 <!---
 AbdifatahCodes/AbdifatahCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
