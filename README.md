@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdifatah Osman.
+- 👋 Hi, My name is Abdifatah Osman and I’m a Full-Stack Web Developer.
 - 👀 I’m interested in everything JavaScript, Flutter, Golang and The Linux Operating System.
 - 🌱 I’m currently learning The Odin Project and also building a free open-source backup program for Linux.
 - 💞️ I’m looking to collaborate on Projects using Vanilla Javascript, NextJS, Flutter or Golang.
